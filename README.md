@@ -1,5 +1,5 @@
 # ctlgen
-vevva ftp ctl generator
+<PRE> vevva ftp ctl generator
 
 fs = require('fs');
 
@@ -24,7 +24,7 @@ function write() {
     });
   }
 }
-
+</PRE>
 
 EXPEMPLE:
 
