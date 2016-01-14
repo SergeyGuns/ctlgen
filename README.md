@@ -3,7 +3,6 @@ vevva ftp ctl generator
 
 fs = require('fs');
 
-
 var dist = 'dist/zip/';
 var files = [];
 var fileTmpl =
