@@ -6,8 +6,8 @@ fs = require('fs');
 var dist = 'dist/zip/';
 var files = [];
 var fileTmpl =
-'USER=a@onpoint.ru\n\
-PASSWORD=ilove2test\n\
+'USER=user@box.com\n\
+PASSWORD=pass\n\
 FILENAME='//+files[i]
 
 fs.readdir(dist, (err, data) => {
