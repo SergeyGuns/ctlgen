@@ -24,7 +24,7 @@ function write() {
     });
   }
 }
-</PRE>
+
 
 EXPEMPLE:
 
@@ -43,4 +43,4 @@ dir
 |_$2.ctl = 'fileTmpl+files[l]'
 |_$3.ctl = 'fileTmpl+files[l]'
 
-
+</PRE>
