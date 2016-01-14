@@ -26,7 +26,7 @@ function write() {
 }
 
 
-expmle:
+EXPEMPLE:
 
 before:
 dir
