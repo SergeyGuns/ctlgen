@@ -1,6 +1,8 @@
 # ctlgen
 <PRE> vevva ftp ctl generator
 
+
+EXPEMPLE:
 fs = require('fs');
 
 var dist = 'dist/zip/';
@@ -26,7 +28,7 @@ function write() {
 }
 
 
-EXPEMPLE:
+
 
 before:
 dir
